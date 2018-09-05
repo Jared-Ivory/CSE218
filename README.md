@@ -1,4 +1,8 @@
 # CSE218
 Fall 2017 Computer Science CSE218
 
-## HELLO
+```java
+public static void main(String args[]){
+    System.out.println("Hello World!");
+}
+```
